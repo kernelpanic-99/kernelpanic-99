@@ -1,5 +1,17 @@
 ### 🛠 Technical Stack
 
+---
+
+### 🛡 My Security Philosophy: Offensive + Defensive
+
+I focus on the full lifecycle of cybersecurity, from low-level exploit development to infrastructure penetration testing.
+
+* **Red Teaming (Offensive):** Developing custom malware PoCs in **C**, shellcode crafting, and bypassing security mechanisms via syscalls.
+* **Blue Teaming (Defensive):** Hardening Linux systems, analyzing traffic patterns with **Tcpdump**, and understanding rootkits to better detect them.
+* **Pentesting:** Vulnerability assessment using **Burp Suite** and automated reconnaissance with custom tools.
+
+---
+
 #### 💻 Low-Level & Systems
 * **Languages:** `C` (Syscalls, POSIX), `Python` (Automation)
 * **Virtualization:** `QEMU/KVM`, `VMware`, `VirtualBox` (Lab Orchestration)
