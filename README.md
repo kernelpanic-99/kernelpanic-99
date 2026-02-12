@@ -1,4 +1,7 @@
-### 🛠 Technical Stack
+# 0x99 | kernelpanic-99
+
+**Security Researcher & Low-Level Developer**
+Exploring the depths of Linux internals, memory management, and network protocols.
 
 ---
 
@@ -11,6 +14,8 @@ I focus on the full lifecycle of cybersecurity, from low-level exploit developme
 * **Pentesting:** Vulnerability assessment using **Burp Suite** and automated reconnaissance with custom tools.
 
 ---
+
+### 🛠 Technical Stack
 
 #### 💻 Low-Level & Systems
 * **Languages:** `C` (Syscalls, POSIX), `Python` (Automation)
@@ -26,3 +31,13 @@ I focus on the full lifecycle of cybersecurity, from low-level exploit developme
 * **Web:** `Burp Suite` (Proxy & Manual Testing)
 * **Bruteforce/Crypto:** `Hashcat`, `Hydra`
 * **Debug:** `GDB`
+
+---
+
+### 📈 Activity & Certification
+
+* **TryHackMe Profile:** [![TryHackMe](https://img.shields.io/badge/TryHackMe-kernelpanic00-blue?style=flat&logo=tryhackme)](https://tryhackme.com/p/kernelpanic00)
+* **Targeting:** `OSCP` (Offensive Security Certified Professional)
+
+---
+*"Deep into the kernel, where only panics reside."*
