@@ -1,16 +1,16 @@
-## Hi there 👋
+### 🛠 Technical Stack
 
-<!--
-**kernelpanic-99/kernelpanic-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💻 Low-Level & Systems
+* **Languages:** `C` (Syscalls, POSIX), `Python` (Automation)
+* **Virtualization:** `QEMU/KVM`, `VMware`, `VirtualBox` (Lab Orchestration)
+* **OS:** `Linux` (Advanced CLI, Kernel Internals)
 
-Here are some ideas to get you started:
+#### 🌐 Network Security & Recon
+* **Analysis:** `Wireshark`, `Tcpdump` (Traffic Inspection & Packet Analysis)
+* **Scanning:** `Nmap`, `NSLookup`, `Whois`
+* **Wireless:** `Aircrack-ng` suite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛡 Pentest & Exploitation
+* **Web:** `Burp Suite` (Proxy & Manual Testing)
+* **Bruteforce/Crypto:** `Hashcat`, `Hydra`
+* **Debug:** `GDB`
